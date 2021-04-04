@@ -12,7 +12,7 @@ To get started with Mixxx:
 
 1. For live use, [download the latest stable version][download].
 2. For experimentation and testing, [download a development release][builds].
-3. To live on the bleeding edge, clone the repo: `git clone https://github.com/mixxxdj/mixxx.git`
+3. To live on the bleeding edge, clone the repo: `git clone https://github.com/ow6n/mixxx.git`
 
 ## Roadmap
 
